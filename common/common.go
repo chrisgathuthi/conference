@@ -1,4 +1,4 @@
-package main
+package common
 
 // conference & person bio data
 type Info interface {
